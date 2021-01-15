@@ -1,0 +1,1 @@
+python neural_style/neural_style.py train --dataset images\train-images --style-image images\style-images\machine.jpg --save-model-dir saved_models --epochs 2 --cuda 1

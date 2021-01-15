@@ -1,0 +1,1 @@
+python neural_style/neural_style.py eval --content-image C:\Users\65169\Desktop\fast_neural_style\images\content-images\timg6.jpg --model C:\Users\65169\Desktop\fast_neural_style\saved_models\machine.model --output-image C:\Users\65169\Desktop\fast_neural_style\images\output-images\machine.jpg --cuda 1
